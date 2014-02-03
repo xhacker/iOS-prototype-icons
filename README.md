@@ -7,3 +7,5 @@
 <img src="icons/pi0-ipad@2x.png" width="76"> 
 <img src="icons/pi3-ipad@2x.png" width="76">
 
+## Preview
+<img src="icons/preview.png" width="320">
